@@ -1,0 +1,19 @@
+{
+  "name": "maxxlabs",
+  "version": "1.0.0",
+  "description": "Code tryouts for my website suhassanmukh.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhasMaxx/MaxxLabs.git"
+  },
+  "author": "Suhas Sanmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuhasMaxx/MaxxLabs/issues"
+  },
+  "homepage": "https://github.com/SuhasMaxx/MaxxLabs#readme"
+}
